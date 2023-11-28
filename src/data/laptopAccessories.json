@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Бездротові Геймерські Навушники Bluetooth 5.0",
+    "imgSrc": "https://content2.rozetka.com.ua/goods/images/big/357542599.jpg",
+    "price": 1000.99,
+    "oldPrice": 1200.01,
+    "id": 1
+  },
+  {
+    "title": "Бездротова оптична мишка UKC G-108",
+    "imgSrc": "https://content2.rozetka.com.ua/goods/images/original/232375064.png",
+    "price": 500.98,
+    "oldPrice": 600.01,
+    "id": 2
+  },
+  {
+    "title": "Клавiатура для ноутбука ACER Aspire 3810",
+    "imgSrc": "https://content2.rozetka.com.ua/goods/images/original/359214900.jpg",
+    "price": 1200.09,
+    "oldPrice": 1500.99,
+    "id": 3
+  },
+  {
+    "title": "Сумка для ноутбука Reverse велика 17.3 персик",
+    "imgSrc": "https://content.rozetka.com.ua/goods/images/original/314157335.jpg",
+    "price": 800.05,
+    "oldPrice": 900.99,
+    "id": 4
+  }
+]

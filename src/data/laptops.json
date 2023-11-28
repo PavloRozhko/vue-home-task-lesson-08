@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Dell XPS 13",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dell_XPS_13_%282017%29.png",
+    "price": 1299.99,
+    "oldPrice": 1499.99,
+    "id": 1
+  },
+  {
+    "title": "MacBook Air",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Macbook_Air_M1_Silver_PNG.png/450px-Macbook_Air_M1_Silver_PNG.png",
+    "price": 1099.99,
+    "oldPrice": 1199.99,
+    "id": 2
+  },
+  {
+    "title": "Ноутбук HP EliteBook 840",
+    "imgSrc": "https://content1.rozetka.com.ua/goods/images/big/315653390.jpg",
+    "price": 1399.99,
+    "oldPrice": 1599.99,
+    "id": 3
+  },
+  {
+    "title": "Lenovo ThinkPad X1 Carbon",
+    "imgSrc": "https://content1.rozetka.com.ua/goods/images/original/191405337.png",
+    "price": 1499.99,
+    "oldPrice": 1699.99,
+    "id": 4
+  }
+]

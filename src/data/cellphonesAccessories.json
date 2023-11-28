@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Чохол для iPhone 12 Pro",
+    "imgSrc": "https://content.rozetka.com.ua/goods/images/big/249730886.jpg",
+    "price": 25.99,
+    "oldPrice": 29.99,
+    "id": 1
+  },
+  {
+    "title": "Навушники Apple AirPods 2022",
+    "imgSrc": "https://content1.rozetka.com.ua/goods/images/big/285470238.jpg",
+    "price": 49.99,
+    "oldPrice": 59.99,
+    "id": 2
+  },
+  {
+    "title": "Захисне скло для Samsung Galaxy S21",
+    "imgSrc": "https://content.rozetka.com.ua/goods/images/big/358940003.png",
+    "price": 9.99,
+    "oldPrice": 12.99,
+    "id": 3
+  },
+  {
+    "title": "Портативний зарядний пристрій 10000 мАг",
+    "imgSrc": "https://content2.rozetka.com.ua/goods/images/big/269225381.jpg",
+    "price": 34.99,
+    "oldPrice": 39.99,
+    "id": 4
+  }
+]
