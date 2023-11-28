@@ -47,11 +47,7 @@ export default {
     height: 80%;
     border-radius: 50%;
     overflow: hidden;
-    // border: 1px solid transparent;
     background-color: #fff;
-    // &.active {
-    //   border-color: green;
-    // }
     &:not(:last-child) {
       margin-bottom: 5px;
     }
